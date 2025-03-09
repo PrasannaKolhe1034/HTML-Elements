@@ -1,0 +1,17 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>Formatting in HTML</title>
+            <head>
+                <b>Hello</b><br>
+                <strong>Hello</strong><br>
+                <i>Hello</i><br>
+                <u>Hello</u><br>
+                <em>Hello</em><br>
+                <mark>Hello</mark><br>
+                <small>Hello</small><br>
+                <del>Hello</del><br>
+                A<sup>2</sup><br>
+                H<sub>2</sub>O 
+            </head>
+            </html>
